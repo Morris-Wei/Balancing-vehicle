@@ -25,4 +25,4 @@ A project of 13th Pld contest in Southeast University
 - 魏晨阳，刘昊东：自平衡
 
 ## 参考资料
-(地址)[https://www.yahboom.com/study/bc-32]
+[地址](https://www.yahboom.com/study/bc-32)

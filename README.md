@@ -27,3 +27,11 @@ A project of 13th Pld contest in Southeast University
 
 ## 参考资料
 [地址](https://www.yahboom.com/study/bc-32)
+
+[SEA Demo](https://github.com/sea-s7/Demo_project)
+
+[陀螺仪Arduino](https://github.com/sparkfun/SparkFun_LSM9DS1_Arduino_Library)
+
+[板载陀螺仪](https://github.com/sea-s7/Demo_project/tree/master/On-Board-Gyroscope)
+
+[PID on FPGA](https://github.com/sea-s7/Demo_project/tree/master/PID-Algorithm-On-FPGA)
